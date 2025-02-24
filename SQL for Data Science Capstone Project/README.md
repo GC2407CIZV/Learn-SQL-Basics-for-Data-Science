@@ -57,8 +57,6 @@ The analysis follows a structured approach:
 
 ### 5.1 General Trends
 
-*(Include general findings about gender representation, age and medals, demographics, and BMI and success as before.  Be specific and use clear language.  For example:)*
-
 * **Gender Representation:**  Female participation has significantly increased over time, although disparities still exist in certain sports.
 * **Age and Medals:**  Athletes in their early to mid-20s tend to win the most medals.
 * **Demographics:**  Average athlete height and weight have increased over the decades, likely due to improvements in nutrition and training.
@@ -90,7 +88,6 @@ The analysis follows a structured approach:
 * **Statistical Outliers (Male):** Some older athletes maintain competitive builds in precision sports.
 * **Dynamic Profiles (Water Polo and Wrestling, Male):** Varying body types are seen based on weight class and performance demands.
 * **Physical Demands (Female):** Diverse physical demands across sports highlight the correlation between specific attributes and athletic success.
-
 
 ## 6. Conclusion
 
